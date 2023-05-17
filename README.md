@@ -1,3 +1,6 @@
 # toto_13er_wette_data
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RGQ8NSYPA59FL)
+Falls größere Gewinne mithilfe dieser Datenbank erziehlt werden freue ich mich über eine kleine Spende (sonst natürlich auch :) )
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](d_lincke@gmx.de)
+
